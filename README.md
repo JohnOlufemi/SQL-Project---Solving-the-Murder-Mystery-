@@ -1,6 +1,6 @@
 # SQLProject-Solving the Murder Mystery
 
-In this project, I used SQL to solve an hypothetical murder mystery whcih took place in SQL City
+In this project, SQL was used to solve an hypothetical murder mystery
 
 A crime has taken place, and the detective needs help. 
 
